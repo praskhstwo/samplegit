@@ -1,4 +1,4 @@
-# mlops_pbi
+# mlops_pbi_updated
 
 ## Tools used in this project, the below tools are used.
 * [Poetry](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f): Dependency management - [article](https://towardsdatascience.com/how-to-effortlessly-publish-your-python-package-to-pypi-using-poetry-44b305362f9f)
