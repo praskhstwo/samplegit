@@ -96,3 +96,8 @@ To auto-generate API document for your project, run:
 ```bash
 make docs
 ```
+<<<<<<< HEAD
+=======
+
+# changes added toother new branch and deleted it
+>>>>>>> origin/master
