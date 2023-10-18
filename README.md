@@ -97,4 +97,4 @@ To auto-generate API document for your project, run:
 make docs
 ```
 
-# changes added toother new branch 
+# changes added toother new branch and deleted it
